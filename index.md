@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP GameSec Framework
-tags: example-tag
+tags: test-tag
 level: 2
 type: documentation
 pitch: A very brief, one-line description of your project
