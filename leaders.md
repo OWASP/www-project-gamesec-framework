@@ -1,2 +1,2 @@
 ### Leaders
-* [Tallis Jordan](mailto:tjordan@owasp.org)
+* [Ozhan Sisic](mailto:oz@owasp.org)
