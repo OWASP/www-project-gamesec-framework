@@ -1,0 +1,21 @@
+audience:
+  - breaker
+  - builder
+leaders:
+  - name: Ozhan Sisic
+    email: oz@owasp.org
+level: 2
+license:
+  - CC-BY-SA-4.0
+name: OWASP GameSec Framework
+pitch: A very brief, one-line description of your project
+repositories:
+  - name: www-project-gamesec-framework
+    url: https://github.com/OWASP/www-project-gamesec-framework
+    description: The Game Security Framework (GSF) is being developed to serve as a comprehensive guide to secure games.
+tags:
+  - test-tag
+  - custom-tag-1
+  - custom-tag-2
+type: documentation
+website: https://owasp.org/www-project-gamesec-framework
