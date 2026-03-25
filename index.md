@@ -81,4 +81,12 @@ Operate OGSF as a stable, community-reviewed project, improve clarity and covera
 ### What This Roadmap Does Not Include Yet
 To keep the project realistic and maintainable, the current two-year plan does **not** make open-source tooling, annual industry reports, or flagship status a primary objective.
 
-These may be considered later if the project builds enough contributor capacity and long-term maintenance s
+These may be considered later if the project builds enough contributor capacity and long-term maintenance support.
+
+### Success Criteria for This Stage
+- Public draft released and reviewed by the community
+- Stable release published and maintained
+- Contribution process and support channels operating consistently
+- Project roadmap and documentation kept current
+- Clear evidence that OGSF provides practical value to reviewers and users
+- Project is in a strong position for or already at **OWASP Lab** maturity
