@@ -4,7 +4,7 @@ layout: col-sidebar
 title: OWASP Game Security Framework
 tags: ogsf
 level: 2
-type: documentation
+type: documentation / framework
 pitch: A practical OWASP verification framework for securing modern games and connected game ecosystems
 
 ---
