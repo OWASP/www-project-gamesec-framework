@@ -1,96 +1,84 @@
 ---
 
 layout: col-sidebar
-title: OWASP GameSec Framework
-tags: test-tag
+title: OWASP Game Security Framework
+tags: ogsf
 level: 2
 type: documentation
-pitch: A very brief, one-line description of your project
+pitch: A practical OWASP verification framework for securing modern games and connected game ecosystems
 
 ---
 
-Games today are massive ecosystems - combining players, servers, social interactions, virtual economies, and even sports-level competition. The Game Security Framework (GSF) is the de facto guide to understanding how attackers exploit these systems and how developers can fight back. Packed with threat models, real-world case studies, and actionable strategies, the GFS equips you to root out vulnerabilities and keep games fun, secure, and most of all - fair.
+### Project Status
 
-### Road Map
-Phase 1: Incubator Stage ( 0-12 months )
-__________________________
-Goal: Establish foundation, complete drafts, and build community engagement/partners
+The OWASP Game Security Framework (OGSF) project restarted in **January 2025**.
 
-# 1-3 Months: Project Launch
+From **January 2025 to January 2026**, the project focused on scoped drafting, structure definition, and close review with selected peers and subject matter experts.
 
-* Finalize scope and mission
-* Identify/recruit contributors
-* Draft structure for deliverables: Game Security Playbook (Core), Threat Models (Basic), Game Security Checklist
+The project is now entering its **public review phase** so the wider community can review, comment on, and help improve the framework.
 
-# 4-8 Months: Research & Draft Development
+### Two-Year Roadmap
 
-* Game Defense Playbook Draft (Core); secure game development, cheat prevention, etc.
-* Threat Models Draft (Basic); focused on multiplayer exploits, client integrity, and server vulnerabilities
-* Game Security Checklist Draft; foundations of secure development and deployment practices
-* Cheat & Exploit Taxonomy (Initial List); examples of common cheats and vulnerabilities
-* Create 1-3 case studies
+#### 2026 Goal
+Publish OGSF for public review, stabilize the framework structure, build contributor workflow, and prepare the project for **OWASP Lab** promotion.
 
-# 9-12 Months: Initial Deliverable Release
+##### Q1 2026 - Public Review Launch
+- Publish the public review draft of OGSF on the OWASP project page and GitHub
+- Clearly define project scope, intended audience, and non-goals
+- Open public feedback channels through GitHub issues and OWASP Slack
+- Publish contribution guidelines and review workflow
+- Standardize project naming, terminology, and document structure
 
-* Finalize drafts for presentation
-* Gather feedback from gaming and security professionals
-* Incorporate feedback into drafts to refine/revise
+##### Q2 2026 - Feedback Triage and Framework Refinement
+- Review and triage community comments
+- Resolve structural issues, gaps, overlaps, and inconsistent terminology
+- Refine the verification categories and requirement language
+- Publish an updated draft incorporating public feedback
+- Add initial worked examples to show how OGSF can be applied in practice
 
-Phase 2: Lab Stage ( 13-24 months )
-__________________________
-Goal: Refine, expand, and provide tools
+##### Q3 2026 - Release Readiness and Project Hygiene
+- Prepare the first stable OGSF release candidate
+- Improve project documentation, navigation, and release notes
+- Ensure GitHub issues, pull requests, and support channels are actively maintained
+- Confirm leadership, contributor workflow, and roadmap are up to date
+- Prepare evidence and materials needed for OWASP Lab promotion review
 
-# 13-15 Months: Expanding Deliverables
+##### Q4 2026 - Stable Release and Lab Promotion Request
+- Publish the first stable public OGSF release
+- Submit the project for **OWASP Lab** promotion review
+- Address any feedback received during the promotion process
+- Document a maintenance plan for the following year
 
-* Game Security Playbook v1; add in-depth sections on topics such as in-game economies, Esports integrity, and telemetry-based detections
-* Threat Models v1; include comprehensive models for servers, virtual markets, competitive scenes, etc
-* Game Security Checklist v1; polished checklist for developers and security teams
-* Cheat & Exploit Taxonomy v1; categorized and expanded
+---
 
-# 16-18 Months: Community Engagement
+#### 2027 Goal
+Operate OGSF as a stable, community-reviewed project, improve clarity and coverage, and build evidence of adoption and usefulness.
 
-* Publish 4-6 total Case Studies with real-world examples of gaming security incidents and mitigation strategies
-* Request feedback from game professionals and establish usefulness
-* Organize community engagement
+##### Q1 2027 - OGSF v1.x Consolidation
+- Publish a refined post-review version of OGSF
+- Incorporate promotion review feedback if applicable
+- Improve readability, consistency, and cross-references
+- Expand contributor onboarding materials
 
-# 19-21 Months: Open Source Tooling
+##### Q2 2027 - Examples and Mappings
+- Publish a small set of worked examples showing how OGSF can be used
+- Add or improve mappings to related OWASP resources where useful
+- Clarify level expectations and verification intent
+- Collect implementation and reviewer feedback from early adopters
 
-* Develop and release: scripts, testing tools for servers/APIs, sample configurations for servers
-* Publish tools with documentation for adoption
+##### Q3 2027 - Community Maturity
+- Run focused review cycles on selected sections
+- Encourage external contributions from game developers, security practitioners, and testers
+- Continue release maintenance and issue response
+- Track signs of project usefulness such as references, contributions, downloads, and discussions
 
-# 22-24 Months: Initial Finalization of Deliverables
+##### Q4 2027 - Maintenance and Next-Step Review
+- Publish an annual update release
+- Review whether the project is ready to remain in sustained Lab maturity or begin planning toward future **Production** readiness
+- Refresh roadmap, governance, and contributor documentation
+- Document lessons learned from the first public review cycle
 
-* Finalize all Phase 2 deliverables (v1)
-* Develop a plan for future updates and expansions
+### What This Roadmap Does Not Include Yet
+To keep the project realistic and maintainable, the current two-year plan does **not** make open-source tooling, annual industry reports, or flagship status a primary objective.
 
-Phase 3: Push for Flagship ( 24+ months )
-
-__________________________
-Goal: Establish value of framework
-
-# Year 3: Expansion
-
-* Annual documentation updates; Game Security Playbook, Threat Models, and Game Security Checklist (v2+)
-* Advanced Case Studies; AI, fraud, etc.
-* Advanced Open Source Tooling; ML concepts, telemetry data analysis, server hardening configs, etc.
-
-# Year 4: Gaming Security Trends Report
-
-* Publish an annual report on the following: emerging threats, lessons learned, adoption metrics for framework
-
-Essential Conditions
-
-__________________________
-
-* Active involvement from security professionals, game professionals, and contributors across communities (including OWASP) will be essential for gathering feedback, validating tools developed, and refining deliverables.
-* Commitment from the Project Leader (myself) and the core team that will be established to maintain momentum and ensure completion of milestones.
-* A focus on emerging threats and real-world use cases to ensure the Framework is useful to the industry.
-
-Project Assumptions
-
-__________________________
-
-* The gaming industry will continue to face unique security challenges, resulting in a high demand for guidance and tooling to address vulnerabilities, cheats, etc.
-* OWASP will continue to provide infrastructure for the project, branding, and outreach.
-* Contributors will assist the project leadership in researching, producing/collecting feedback, and any development.
-* The gaming industry will see the framework's value and adopt/foster its deliverables.
+These may be considered later if the project builds enough contributor capacity and long-term maintenance s
