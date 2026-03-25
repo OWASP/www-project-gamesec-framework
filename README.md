@@ -43,3 +43,13 @@ The project aims to:
 OGSF is a community project and welcomes feedback, review, and contributions from developers, security practitioners, researchers, and testers.
 
 Community discussion is available in the **OWASP Slack** channel: `#game-security-framework`
+
+## Quick Links
+
+- [OGSF Framework Draft](./OGSF.md)
+- [Project Information](./info.md)
+- [Project Leaders](./leaders.md)
+- [Contributing Guidelines](./CONTRIBUTING.md)
+- [OWASP Project Page](https://owasp.org/www-project-gamesec-framework/)
+- [GitHub Issues](https://github.com/OWASP/www-project-gamesec-framework/issues)
+- OWASP Slack: `#game-security-framework`
