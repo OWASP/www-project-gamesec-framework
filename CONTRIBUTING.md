@@ -6,7 +6,7 @@ Thank you for your interest in contributing to an OWASP project. We welcome all 
 
 To get started with contributing to any OWASP project, please follow these steps:
 
-1. [Join](http://owasp.org/slack/invite) the [OWASP Slack workspace](https://owasp.slack.com) to connect with the OWASP community and get help with any questions you may have.
+1. [Join](http://owasp.org/slack/invite) the [OWASP Slack workspace](https://owasp.slack.com) to connect with the OWASP community and get help with any questions you may have. For Game Security Framework, please visit the #game-security-framework channel.
 
 2. Review the [OWASP Projects](https://owasp.org/projects/) page to browse the list of OWASP projects and find a project that aligns with your interests and skills.
 
