@@ -8,8 +8,8 @@
 
 ## Contributors
 
-| Name | Role |
-|---|---|
+| Name | Role | Contact |
+|---|---|---|
 | Ezgi Bulbul | Contributor | ezgi@owasp.org |
 | Jerry Hoff | Contributor |
 | Grant Aroyan | Contributor |
