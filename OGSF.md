@@ -1099,8 +1099,8 @@ be protected in accordance with legal and ethical standards.
 | **v0.5.1-7.2.2** | Verify that the principle of data minimization is followed, where only the data that is strictly necessary for the game's functionality is collected and stored.                                | ✓   | ✓   | ✓   |
 | **v0.5.1-7.2.3** | Verify that strict access controls are in place for databases containing player data, ensuring that only authorized services and personnel can access it.                                       |     | ✓   | ✓   |
 | **v0.5.1-7.2.4** | Verify that there is a clear data retention policy and that player data is securely deleted when it is no longer needed or upon a valid user request, in compliance with regulations like GDPR. |     | ✓   | ✓   |
-| **v0.5.1-7.2.5** | Verify that the analytics data, check player IDs are anonymized (eg. salted hashes)                                                                                                             |     | ✓   | ✓   |
-| **v0.5.1-7.2.6** | Verify that the PII at rest are masked and available for authorised users’ view when necessary with proper logging of the access of the data.                                                   |     | ✓   | ✓   |
+| **v0.5.1-7.2.5** | Verify that analytics data and player identifiers are anonymized or pseudonymized where full identifiers are not required (e.g., by using salted hashes or equivalent controls).                                                                                                             |     | ✓   | ✓   |
+| **v0.5.1-7.2.6** | Verify that PII stored at rest is masked or otherwise protected in administrative or support interfaces, is accessible only to authorized personnel when necessary, and that access to such data is logged.                                                   |     | ✓   | ✓   |
 
 <a id="73-secure-logging"></a>
 ### 7.3 Secure Logging
