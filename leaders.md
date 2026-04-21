@@ -11,8 +11,8 @@
 | Name | Role | Contact |
 |---|---|---|
 | Ezgi Bulbul | Contributor | ezgi@owasp.org |
-| Jerry Hoff | Contributor |
-| Grant Aroyan | Contributor |
+| Jerry Hoff | Contributor | jerry@owasp.org |
+| Grant Aroyan | Contributor | gamefanz@protonmail.com |
 
 ## Future Expansion
 
